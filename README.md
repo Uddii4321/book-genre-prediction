@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book Genre Classification Mini-Project
 
 A comprehensive machine learning project that combines Natural Language Processing (NLP) and Data Science to classify book genres based on titles and descriptions.
@@ -226,3 +227,7 @@ This project is open source and available under the MIT License.
 ---
 
 **Happy Book Classifying! 📚✨**
+=======
+# book-genre-prediction
+Mini project using NLP + Data Science to predict book genres
+>>>>>>> 7f19dfc58f686724609809f7a9bade4e29760394
